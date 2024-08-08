@@ -83866,7 +83866,7 @@ A.zb.prototype={
 a1(){return new A.Sl(B.o)}}
 A.Sl.prototype={
 F(a){var s=null
-return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.y,new A.a4(new A.a1(60,30,60,30),A.b8(s,A.xq(0.8333333333333334,A.y5(6,new A.aiJ(),t.l7),3,30,30),B.q,s,s,s,s,s,s,s,s,s,s),s))}}
+return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.y,new A.a4(new A.a1(60,30,60,30),A.b8(s,A.xq(1.125,A.y5(6,new A.aiJ(),t.l7),3,30,30),B.q,s,s,s,s,s,s,s,s,s,s),s))}}
 A.aiJ.prototype={
 $1(a){var s=$.aqS[a]
 return A.w0(A.dO(20),new A.xv(s,null))},
@@ -84383,7 +84383,7 @@ A.yf.prototype={
 a1(){return new A.R2(B.o)}}
 A.R2.prototype={
 F(a){var s=null
-return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.y,new A.a4(new A.a1(30,10,30,10),A.xq(0.875,A.y5(6,new A.ahI(),t.l7),1,30,30),s))}}
+return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.y,new A.a4(new A.a1(30,10,30,10),A.xq(1.125,A.y5(6,new A.ahI(),t.l7),1,30,30),s))}}
 A.ahI.prototype={
 $1(a){var s=$.aqS[a]
 return A.w0(A.dO(20),new A.z9(s,null))},
@@ -84398,7 +84398,7 @@ m=A.ec(A.dF(B.ar,A.a([A.ov(0,A.ed(m,B.c6,p,p),0)],s),B.G,B.au,p),1)
 r=this.a.c.h(0,"title")
 r.toString
 r=A.Q(r,p,p,p,p,p,p,p,A.c().$3$color$fontSize$fontWeight(B.f,18,B.V),p,p,p)
-q=A.wT(p,p,new A.e(4279970618),p,p,p,p,p,p,p,p,p,new A.a1(10,16,10,16),p,new A.c0(A.dO(6),B.D),p,p,p,p)
+q=A.wT(p,p,new A.e(4279970618),p,p,p,p,p,p,p,p,p,new A.a1(10,14,10,14),p,new A.c0(A.dO(6),B.D),p,p,p,p)
 return A.b8(p,A.b8(p,A.aN(A.a([m,new A.a4(B.DH,r,p),new A.a4(B.DF,A.wR(A.Q("view-project",p,p,p,p,p,p,p,A.c().$3$color$fontSize$fontWeight(B.f,18,B.E),p,p,p),new A.aiD(this),q),p)],s),B.aS,B.t,B.r),B.q,p,p,new A.cK(p,p,n,o,p,p,B.ax),p,p,p,p,p,p,p),B.q,new A.e(4278719261),p,p,p,p,p,p,p,p,1/0)},
 rh(a){return this.a6S(a)},
 a6S(a){var s=0,r=A.O(t.H),q=this,p,o
@@ -84790,7 +84790,7 @@ A.AK.prototype={
 a1(){return new A.U6(B.o)}}
 A.U6.prototype={
 F(a){var s=null
-return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.y,new A.a4(new A.a1(60,10,60,10),A.xq(0.8333333333333334,A.y5(6,new A.akz(),t.l7),2,30,30),s))}}
+return A.dn(A.hD(B.y,!0,0,0,A.Q("Projects",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.y,new A.a4(new A.a1(60,10,60,10),A.xq(1.125,A.y5(6,new A.akz(),t.l7),2,30,30),s))}}
 A.akz.prototype={
 $1(a){var s=$.aqS[a]
 return A.w0(A.dO(20),new A.za(s,null))},
