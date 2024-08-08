@@ -84399,7 +84399,7 @@ r=this.a.c.h(0,"title")
 r.toString
 r=A.Q(r,p,p,p,p,p,p,p,A.c().$3$color$fontSize$fontWeight(B.f,18,B.V),p,p,p)
 q=A.wT(p,p,new A.e(4279970618),p,p,p,p,p,p,p,p,p,new A.a1(10,14,10,14),p,new A.c0(A.dO(6),B.D),p,p,p,p)
-return A.b8(p,A.b8(p,A.aN(A.a([m,new A.a4(B.DH,r,p),new A.a4(B.DF,A.wR(A.Q("view-project",p,p,p,p,p,p,p,A.c().$3$color$fontSize$fontWeight(B.f,18,B.E),p,p,p),new A.aiD(this),q),p)],s),B.aS,B.t,B.r),B.q,p,p,new A.cK(p,p,n,o,p,p,B.ax),p,p,p,p,p,p,p),B.q,new A.e(4278719261),p,p,p,p,p,p,p,p,1/0)},
+return A.b8(p,A.b8(p,A.aN(A.a([m,new A.a4(B.DH,r,p),new A.a4(B.DF,A.wR(A.Q("view-project",p,p,p,p,p,p,p,A.c().$3$color$fontSize$fontWeight(B.f,16,B.E),p,p,p),new A.aiD(this),q),p)],s),B.aS,B.t,B.r),B.q,p,p,new A.cK(p,p,n,o,p,p,B.ax),p,p,p,p,p,p,p),B.q,new A.e(4278719261),p,p,p,p,p,p,p,p,1/0)},
 rh(a){return this.a6S(a)},
 a6S(a){var s=0,r=A.O(t.H),q=this,p,o
 var $async$rh=A.P(function(b,c){if(b===1)return A.L(c,r)
