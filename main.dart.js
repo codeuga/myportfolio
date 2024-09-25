@@ -85885,7 +85885,7 @@ A.ya.prototype={
 N(){return new A.T5()}}
 A.T5.prototype={
 F(a){var s=null
-return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.U(new A.X(60,30,60,30),A.jf(1.4,A.iu(4,new A.aoK(),!0,t.l),2,30,30),s))}}
+return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.U(new A.X(60,30,60,30),A.jf(1.4,A.iu(5,new A.aoK(),!0,t.l),2,30,30),s))}}
 A.aoK.prototype={
 $1(a){var s=$.aCT[a]
 return A.j1(A.bP(20),new A.zZ(s,null))},
@@ -86643,7 +86643,7 @@ A.AN.prototype={
 N(){return new A.VZ()}}
 A.VZ.prototype={
 F(a){var s=null
-return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.u,new A.U(new A.X(30,10,30,10),A.jf(1.4,A.iu(4,new A.asB(),!0,t.l),1,30,30),s))}}
+return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.u,new A.U(new A.X(30,10,30,10),A.jf(1.4,A.iu(5,new A.asB(),!0,t.l),1,30,30),s))}}
 A.asB.prototype={
 $1(a){var s=$.aCT[a]
 return A.j1(A.bP(20),new A.yc(s,null))},
@@ -87156,7 +87156,7 @@ A.DA.prototype={
 N(){return new A.Zy()}}
 A.Zy.prototype={
 F(a){var s=null
-return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.U(new A.X(60,10,60,10),A.jf(1.4,A.iu(4,new A.avY(),!0,t.l),2,30,30),s))}}
+return A.cz(A.eD(B.u,!0,0,0,A.L("Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.U(new A.X(60,10,60,10),A.jf(1.4,A.iu(5,new A.avY(),!0,t.l),2,30,30),s))}}
 A.avY.prototype={
 $1(a){var s=$.aCT[a]
 return A.j1(A.bP(20),new A.yb(s,null))},
@@ -94355,7 +94355,7 @@ $.tt=A.a([95.047,100,108.883],t.n)
 $.aJW=null
 $.axR=null
 $.aCT=function(){var s=t.N
-return A.a([A.af(["image","assets/c4.jpg","title","Membuat Aplikasi Flutter"],s,s),A.af(["image","assets/c3.jpg","title","Python Dasar"],s,s),A.af(["image","assets/c1.jpg","title","Flutter Mobile Apps"],s,s),A.af(["image","assets/c2.jpg","title","Belajar GIT"],s,s)],t.m0)}()
+return A.a([A.af(["image","assets/c4.jpg","title","Membuat Aplikasi Flutter"],s,s),A.af(["image","assets/c3.jpg","title","Python Dasar"],s,s),A.af(["image","assets/c1.jpg","title","Flutter Mobile Apps"],s,s),A.af(["image","assets/c5.jpg","title","Memulai Pemrograman dengan Dart"],s,s),A.af(["image","assets/c2.jpg","title","Belajar GIT"],s,s)],t.m0)}()
 $.aCZ=function(){var s=t.N
 return A.a([A.af(["image","assets/p01.png","title","Twibbon Generator HUT 79","link","https://twibbonhut79.online/"],s,s),A.af(["image","assets/p1.png","title","Chat App With Gemini AI","link",u.k],s,s),A.af(["image","assets/p2.png","title","Income and Expense Record","link",u.G],s,s),A.af(["image","assets/p4.png","title","Solar System","link",u.H],s,s)],t.m0)}()
 $.aDj=function(){var s=t.N
