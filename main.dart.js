@@ -85502,7 +85502,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$xk)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_ascbc1z","template_id","template_s9em3um","user_id","RPSb1tAaQy7DHkYc2","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$xk)
 case 7:m=a0
 l=m.b
 k=t.O
@@ -85719,7 +85719,7 @@ A.yd.prototype={
 O(){return new A.T3()}}
 A.T3.prototype={
 F(a){var s=null
-return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.V(new A.X(60,30,60,30),A.ji(1.4,A.iw(5,new A.aoz(),!0,t.l),2,30,30),s))}}
+return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.V(new A.X(60,30,60,30),A.ji(1.4,A.iw(6,new A.aoz(),!0,t.l),2,30,30),s))}}
 A.aoz.prototype={
 $1(a){var s=$.aCY[a]
 return A.j4(A.bR(20),new A.A2(s,null))},
@@ -86289,7 +86289,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w7)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_ascbc1z","template_id","template_s9em3um","user_id","RPSb1tAaQy7DHkYc2","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w7)
 case 7:m=a0
 l=m.b
 k=t.O
@@ -86489,7 +86489,7 @@ A.AQ.prototype={
 O(){return new A.VU()}}
 A.VU.prototype={
 F(a){var s=null
-return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.u,new A.V(new A.X(30,10,30,10),A.ji(1.4,A.iw(5,new A.asy(),!0,t.l),1,30,30),s))}}
+return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,16),s,s,s)),B.u,new A.V(new A.X(30,10,30,10),A.ji(1.4,A.iw(6,new A.asy(),!0,t.l),1,30,30),s))}}
 A.asy.prototype={
 $1(a){var s=$.aCY[a]
 return A.j4(A.bR(20),new A.yf(s,null))},
@@ -86909,7 +86909,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w6)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_ascbc1z","template_id","template_s9em3um","user_id","RPSb1tAaQy7DHkYc2","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w6)
 case 7:m=a0
 l=m.b
 k=t.O
@@ -87004,7 +87004,7 @@ A.DC.prototype={
 O(){return new A.Zs()}}
 A.Zs.prototype={
 F(a){var s=null
-return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.V(new A.X(60,10,60,10),A.ji(1.4,A.iw(5,new A.aw_(),!0,t.l),2,30,30),s))}}
+return A.cC(A.eF(B.u,!0,0,0,A.J("E-Certificate",s,s,s,s,s,s,s,A.c().$2$color$fontSize(B.f,18),s,s,s)),B.u,new A.V(new A.X(60,10,60,10),A.ji(1.4,A.iw(6,new A.aw_(),!0,t.l),2,30,30),s))}}
 A.aw_.prototype={
 $1(a){var s=$.aCY[a]
 return A.j4(A.bR(20),new A.ye(s,null))},
@@ -94194,7 +94194,7 @@ $.tt=A.a([95.047,100,108.883],t.n)
 $.aJZ=null
 $.axZ=null
 $.aCY=function(){var s=t.N
-return A.a([A.ae(["image","assets/c4.jpg","title","Membuat Aplikasi Flutter"],s,s),A.ae(["image","assets/c3.jpg","title","Python Dasar"],s,s),A.ae(["image","assets/c1.jpg","title","Flutter Mobile Apps"],s,s),A.ae(["image","assets/c5.jpg","title","Memulai Pemrograman dengan Dart"],s,s),A.ae(["image","assets/c2.jpg","title","Belajar GIT"],s,s)],t.m0)}()
+return A.a([A.ae(["image","assets/c4.jpg","title","Membuat Aplikasi Flutter"],s,s),A.ae(["image","assets/c3.jpg","title","Python Dasar"],s,s),A.ae(["image","assets/c1.jpg","title","Flutter Mobile Apps"],s,s),A.ae(["image","assets/c5.jpg","title","Memulai Pemrograman dengan Dart"],s,s),A.ae(["image","assets/c2.jpg","title","Belajar GIT"],s,s),A.ae(["image","assets/c6.jpg","title","Flutter | Tingkatkan Pengalaman Pengguna dengan Lokalisasi dan Aksesibilitas"],s,s)],t.m0)}()
 $.aD3=function(){var s=t.N
 return A.a([A.ae(["image","assets/p01.png","title","Twibbon Generator HUT 79","link","https://twibbonhut79.online/"],s,s),A.ae(["image","assets/p1.png","title","Chat App With Gemini AI","link",u.k],s,s),A.ae(["image","assets/p2.png","title","Income and Expense Record","link",u.G],s,s),A.ae(["image","assets/p4.png","title","Solar System","link",u.H],s,s)],t.m0)}()
 $.aDo=function(){var s=t.N
