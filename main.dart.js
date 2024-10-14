@@ -85448,7 +85448,7 @@ A.ap0.prototype={
 $0(){this.a.mV("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.ap1.prototype={
-$0(){this.a.mV("mailto:codeugaa@gmail.com")},
+$0(){this.a.mV("mailto:codeuga.dev@gmail.com")},
 $S:0}
 A.yQ.prototype={
 O(){return new A.TN()}}
@@ -86235,7 +86235,7 @@ A.asB.prototype={
 $0(){this.a.mX("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.asC.prototype={
-$0(){this.a.mX("mailto:codeugaa@gmail.com")},
+$0(){this.a.mX("mailto:codeuga.dev@gmail.com")},
 $S:0}
 A.yS.prototype={
 O(){return new A.TT()}}
@@ -86855,7 +86855,7 @@ A.aw2.prototype={
 $0(){this.a.mW("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.aw3.prototype={
-$0(){this.a.mW("mailto:codeugaa@gmail.com")},
+$0(){this.a.mW("mailto:codeuga.dev@gmail.com")},
 $S:0}
 A.yR.prototype={
 O(){return new A.TQ()}}
