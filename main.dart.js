@@ -85448,7 +85448,7 @@ A.ap0.prototype={
 $0(){this.a.mV("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.ap1.prototype={
-$0(){this.a.mV("mailto:anugrahdwi1005@gmail.com")},
+$0(){this.a.mV("mailto:codeugaa@gmail.com")},
 $S:0}
 A.yQ.prototype={
 O(){return new A.TN()}}
@@ -85502,7 +85502,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_8a9x40c","template_id","template_2harboj","user_id","HaeSZrA7J_Ld6w_jc","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$xk)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$xk)
 case 7:m=a0
 l=m.b
 k=t.O
@@ -86235,7 +86235,7 @@ A.asB.prototype={
 $0(){this.a.mX("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.asC.prototype={
-$0(){this.a.mX("mailto:anugrahdwi1005@gmail.com")},
+$0(){this.a.mX("mailto:codeugaa@gmail.com")},
 $S:0}
 A.yS.prototype={
 O(){return new A.TT()}}
@@ -86289,7 +86289,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_8a9x40c","template_id","template_2harboj","user_id","HaeSZrA7J_Ld6w_jc","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w7)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w7)
 case 7:m=a0
 l=m.b
 k=t.O
@@ -86855,7 +86855,7 @@ A.aw2.prototype={
 $0(){this.a.mW("https://www.instagram.com/iyaanugraah/")},
 $S:0}
 A.aw3.prototype={
-$0(){this.a.mW("mailto:anugrahdwi1005@gmail.com")},
+$0(){this.a.mW("mailto:codeugaa@gmail.com")},
 $S:0}
 A.yR.prototype={
 O(){return new A.TQ()}}
@@ -86909,7 +86909,7 @@ l=A.cp(u.d,0,null)
 k=t.N
 j=A.ae(["Content-Type","application/json","Authorization","Bearer YOUR_ACCESS_TOKEN"],k,k)
 s=7
-return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_8a9x40c","template_id","template_2harboj","user_id","HaeSZrA7J_Ld6w_jc","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w6)
+return A.x(A.aDm(l,B.bz.z_(A.ae(["service_id","service_58w28v7","template_id","template_shi4fll","user_id","YGUH4wiqnE8CJNGMW","template_params",A.ae(["from_name",g,"from_email",e,"message",c],k,k)],k,t.K),null),j),$async$w6)
 case 7:m=a0
 l=m.b
 k=t.O
