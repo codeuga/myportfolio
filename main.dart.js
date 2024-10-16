@@ -85184,7 +85184,7 @@ A.pP.prototype={
 F(a){var s=null
 return A.cC(s,s,A.kA(!0,new A.PS(new A.qk(0,s),new A.rc(0,s),new A.pp(0,s),s),B.ag,!0))}}
 A.O6.prototype={
-F(a){return new A.AZ(new A.aft(),new A.afu(),"Portfolio - Anugrah Dwi Kustanto",!1,null)}}
+F(a){return new A.AZ(new A.aft(),new A.afu(),"Anugrah Dwi Kustanto | Personal Website",!1,null)}}
 A.aft.prototype={
 $1(a){var s=null,r=t.z
 switch(a.a){case"/":return A.B0(new A.afp(),s,r)
