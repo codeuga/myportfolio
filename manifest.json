@@ -1,6 +1,6 @@
 {
-    "name": "Portfolio Anugrah",
-    "short_name": "Portfolio Anugrah",
+    "name": "Anugrah Dwi Kustanto | Personal Website",
+    "short_name": "Anugrah Dwi Kustanto | Personal Website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -10,23 +10,23 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/icon1.png",
+            "src": "icons/codeuga1.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/icon2.png",
+            "src": "icons/codeuga2.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-maskable-192.png",
+            "src": "icons/codeuga3.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/Icon-maskable-512.png",
+            "src": "icons/codeuga3.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
